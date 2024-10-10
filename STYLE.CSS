@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+#nao {
+    margin-left: 20px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#sim {
+    cursor: pointer;
+}
+
+#imagem {
+    margin-top: 20px;
+}
+
+button:focus {
+    outline: none;
+}
